@@ -1,0 +1,26 @@
+#nav{
+	background-color: #40befb;
+
+}
+#nav a{
+	color: #000;
+	font-weight: bold;
+}
+#nav a:hover{color:#000; background-color:#fff;}
+#navbar{background-color: #8A4513;}
+
+#area-contant{
+	height: auto;
+	padding-left:auto;
+	padding-right:auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+}
+#area-contant h1{ margin-bottom:30px; text-align:center;}
+#footer{ width: 100%; background-color:#40befb; color:#000; position:fixed; bottom: 0px; border-top:#000000 solid 10PX;}
+.breadcrumb{
+	border-top:#000000 solid 10PX;
+	background-color:#8cd6fa ;
+	color: #000;
+}
